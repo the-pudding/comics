@@ -1,0 +1,1 @@
+Using the <a href="https://comicvine.gamespot.com/api/" target="_blank">ComicVine database</a>, which is fan-edited, information was downloaded for all 34,476 characters in Marvel and DC. Data were gathered at the end of April, 2017. The .txt files are the data for the Marvel and DC characters, and the .py files are those used to manipulate and analyze the data.
